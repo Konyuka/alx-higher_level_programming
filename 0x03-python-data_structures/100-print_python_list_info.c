@@ -1,4 +1,5 @@
 #include <Python.h>
+#include <listobject.h>
 #include "lists.h"
 #include <stdio.h>
 #include <stdlib.h>
