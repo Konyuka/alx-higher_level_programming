@@ -5,6 +5,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
+#include <Python.h>
+#include <listobject.h>
 
 /**
  * struct listint_s - singly linked list
