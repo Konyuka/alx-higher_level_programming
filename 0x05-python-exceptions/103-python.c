@@ -1,6 +1,6 @@
 /*
  * File: 103-python.c
- * Auth: Joshua Nyawach
+ * Auth: Michael Saiba
  */
 
 #include <Python.h>
